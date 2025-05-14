@@ -147,3 +147,5 @@ public class MyDeque<E> implements Deque<E> {
         return size;
     }
 }
+
+//Тригеримо CI пайплайн
